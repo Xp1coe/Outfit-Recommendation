@@ -1,0 +1,14 @@
+{
+  "preferences": [
+    {
+      "weather": "summer",
+      "occasion": "casual",
+      "gender": "men"
+    },
+    {
+        "weather": "winter",
+        "occasion": "casual",
+        "gender": "men" 
+    }
+  ]
+}
